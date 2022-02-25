@@ -1,4 +1,4 @@
-// ID: 319024600 IDO AHARON
+
 
 import arkanoid.Animations.AnimationRunner;
 import arkanoid.Levels.DirectHit;

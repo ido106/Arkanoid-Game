@@ -1,4 +1,4 @@
-// ID: 319024600 IDO AHARON
+
 package arkanoid.Sprites.Graphics;
 
 import arkanoid.Sprites.Sprite;

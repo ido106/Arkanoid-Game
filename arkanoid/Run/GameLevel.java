@@ -1,4 +1,4 @@
-// ID: 319024600 IDO AHARON
+
 package arkanoid.Run;
 
 import arkanoid.Animations.Animation;
