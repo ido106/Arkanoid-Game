@@ -25,3 +25,37 @@ The main package list is:
 - *Run-* game flow
 
 In the implementation of the code we can find various design patterns: Observer, Decorator, Template and more. In addition, the main basics of OOP principles are kept: abstraction, encapsuliation, inheritance, polymorphism and more.
+
+### Gameplay and screenshots
+
+<p align="center">
+  <img 
+    width="500"
+    height="393"
+    src="https://user-images.githubusercontent.com/92651125/155850304-cc98c9f0-cfb4-4fec-af1a-a708da26cff2.gif"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="500"
+    height="393"
+    src="https://user-images.githubusercontent.com/92651125/155850452-aebbf192-6933-47cf-8aed-ec2bf45d779f.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="500"
+    height="393"
+    src="https://user-images.githubusercontent.com/92651125/155850463-abddd2b8-ac43-41f7-85a1-531d145baa07.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="500"
+    height="393"
+    src="https://user-images.githubusercontent.com/92651125/155850471-aeecf91b-e741-4db2-a59b-0071f1008bd8.png"
+  >
+</p>
