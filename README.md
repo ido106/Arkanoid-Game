@@ -10,6 +10,6 @@ With every block you destroy, you gain 5 points. When all the blocks on the play
 If you managed to pass all four levels, you won. If all the balls managed to slip to the bottom of the playground, you lost. Either way, your final score is shown on the screen.  
 
 ### Controlling the game 
-At the beginning of each level, a screen of ```3... 2... 1... GO``` is displayed. When the message reaches 'GO', the game begins.
-You can control the paddle with the left and right arrows on your keyboard. When a ball hits the paddle, it bounces back to the playground. Notice that the velocity and direction of the ball are changed depending on where the paddle was hit.
-You can pause the game with the 'p' button. that will display a screen with the message ```paused -- press space to continue``` until a key is pressed, then the screen of 3... 2... 1... GO will appear again.
+At the beginning of each level, a screen of ```3... 2... 1... GO``` is displayed. When the message reaches 'GO', the game begins.  
+You can control the paddle with the left and right arrows on your keyboard. When a ball hits the paddle, it bounces back to the playground. Notice that the velocity and direction of the ball are changed depending on where the paddle was hit.  
+You can pause the game with the 'p' button. that will display a screen with the message ```paused -- press space to continue``` until a key is pressed, then the screen of 3... 2... 1... GO will appear again.  
