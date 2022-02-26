@@ -3,7 +3,7 @@
 ### About the game
 Arkanoid is a known block breaker arcade game.  
 Using the paddle that appears at the bottom of the screen, the player is asked to clear a set of colored blocks that appear on the screen by deflecting a ball towards it, without letting the balls leave the bottom edge of the playfield.  
-Each level has its own unique arrangement of blocks, background, paddle size and speed, balls size, balls speed, balls amount and more.  
+Each level has its own unique difficulty, arrangement of blocks, background, paddle size and speed, balls size, balls speed, balls amount and more.  
 
 ### Gaining points
 With every block you destroy, you gain 5 points. When all the blocks on the playground are destroyed, you gain another 100 points and also move to the next level.
