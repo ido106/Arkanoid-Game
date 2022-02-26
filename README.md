@@ -6,7 +6,7 @@ Using the paddle that appears at the bottom of the screen, the player is asked t
 Each level has its own unique difficulty, arrangement of blocks, background, paddle size and speed, balls size, balls speed, balls amount and more.  
 
 ### Gaining points
-With every block you destroy, you gain 5 points. When all the blocks on the playground are destroyed, you gain another 100 points and also move to the next level.
+With every block you destroy, you gain 5 points. When all the blocks on the playground are destroyed, you gain another 100 points and also pass to the next level.
 If you managed to pass all four levels, you won. If all the balls managed to slip to the bottom of the playground, you lost. Either way, your final score is shown on the screen.  
 
 ### Controlling the game 
@@ -23,3 +23,5 @@ The main package list is:
 - *HitListeners-* ball remover, counter and more
 - *Sprites-* all sprites and graphics
 - *Run-* game flow
+
+In the implementation of the code we can find various design patterns: Observer, Decorator, Template and more. In addition, the main basics of OOP principles are kept: abstraction, encapsuliation, inheritance, polymorphism and more.
