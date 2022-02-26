@@ -24,7 +24,7 @@ The main package list is:
 - *Sprites-* all sprites and graphics
 - *Run-* game flow
 
-In the implementation of the code we can find various design patterns: Observer, Decorator, Template and more. In addition, the main basics of OOP principles are kept: abstraction, encapsuliation, inheritance, polymorphism and more.
+*In the implementation of the code we can find various design patterns: Observer, Decorator, Template and more. In addition, the main basics of OOP principles are kept: abstraction, encapsuliation, inheritance, polymorphism and more.*
 
 ### Gameplay and screenshots
 
